@@ -56,3 +56,5 @@ https://chromecast.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_enc_C/ArtearHD
 https://chromecast.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc_C/Canal9.mpd
 
 
+#EXTINF:-1,Lista de reproducción secundaria
+https://raw.githubusercontent.com/jpya/jpya/refs/heads/main/m3u
